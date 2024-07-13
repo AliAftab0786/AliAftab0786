@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **aliaftab.dev@gmail.com**
 
-- ⚡ Fun fact **I am Funny Person😂**
+- ⚡ Fun fact **The first rule of programming- if it works, don’t touch it.🤓**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
