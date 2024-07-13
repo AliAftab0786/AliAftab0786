@@ -1,4 +1,4 @@
-![logo](https://github.com/AliAftab0786/AliAftab/blob/main/AliAftab.png)
+![logo](https://github.com/AliAftab0786/AliAftab0786/blob/main/AliAftab.png)
 <h1 align="center">Hi 👋, I'm ALI AFTAB</h1>
 <h3 align="center">A passionate Software Engineer from Lahore, Pujanb, Pakistan.</h3>
 <img align="right" width="400" alt="Coding" src="https://miro.medium.com/v2/resize:fit:1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
