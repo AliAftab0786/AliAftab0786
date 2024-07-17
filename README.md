@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aliaftab0786&label=Profile%20views&color=0e75b6&style=flat" alt="aliaftab0786" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://aliaftab-dev-six.vercel.app/](https://aliaftab-dev-six.vercel.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://aliaftab-dev-six.vercel.app/)
 
 - 📫 How to reach me **aliaftab.dev@gmail.com**
 
